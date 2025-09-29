@@ -1,0 +1,4 @@
+This React app is a simple Student Management System. It displays a list of students with their id, name,
+and age inside styled cards. A form is provided to add new students by entering their name and age. The
+data is managed using React useState and updated dynamically when a student is added. The layout is
+designed using Tailwind CSS for a clean, responsive look, making it easy to view and manage student details.
